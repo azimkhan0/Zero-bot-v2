@@ -13,16 +13,16 @@
     "eventDisabled": [
         "join.js"
     ],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "3rdgenerationofficial.media@gmail.com",
+    "PASSWORD": "Mdazimkhan@2",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
-    "PREFIX": "/",
+    "BOTNAME": "Loli Senpai",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100040426712109"
+        "kazuma.sato.767310"
     ],
     "NDH": [
-        "100037743553265"
+        "kazuma.sato.767310"
     ],
     "DATABASE": {
         "sqlite": {
